@@ -77,4 +77,4 @@ retail-sales-analytics/
 
 ---
 
-*Part of a data analyst portfolio — see also: [HR Attrition Analysis](https://github.com/yourusername/hr-attrition-analysis)*
+*Part of a data analyst portfolio — see also: [HR Attrition Analysis](github.com/mohank2412000-hub/HR-attrition-analysis)*
